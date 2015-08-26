@@ -1,0 +1,24 @@
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+/temp-cert
+/temp-cert-test2
+*.bundle
+*.so
+*.o
+*.a
+mkmf.log
+.idea/
+*.gem
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+.DS_
